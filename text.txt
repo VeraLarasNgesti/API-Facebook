@@ -1,0 +1,12 @@
+--------------------Configuration: facebook - JDK version 1.8.0_102 <Default> - <Default>--------------------
+Web Service
+Sun Jun 30 08:22:03 ICT 2019
+108185607142541_108188803808888
+Coba Web Service
+Sun Jun 30 08:17:43 ICT 2019
+108185607142541_108186213809147
+null
+Fri Jun 24 14:00:00 ICT 1994
+108185607142541_101971587763943
+
+Process completed.
